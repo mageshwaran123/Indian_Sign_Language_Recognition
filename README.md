@@ -29,7 +29,7 @@ Step 10 - Save the Model: Finally, saves the trained model as a file named "mode
 
 summary provides an overview of the code's functionality, which involves loading the dataset, building a pre-trained model, training the model, evaluating its performance, and saving it for future use.
 
-Post-Notebook - image classification using a pre-trained model. Here is a summary of the code:
+Post_Notebook - image classification using a pre-trained model. Here is a summary of the code:
 
 - Import necessary packages: The code imports the required packages, including cv2 for image processing, numpy for numerical operations, tensorflow.keras.models for loading the model, and matplotlib.pyplot for displaying images.
 

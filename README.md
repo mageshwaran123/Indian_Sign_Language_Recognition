@@ -1,5 +1,7 @@
 # Indian_Sign_Language_Recognition
 
+DataSet - Indian Sign Language (IST) - https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl
+Note: Split the DataSet into train (80%) and Test (20%)
 
 Pre_Notebook is a summary of a Python program that trains a deep learning model using the ResNet50 architecture on the Indian hand sign dataset. Here is a breakdown of the steps involved:
 

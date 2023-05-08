@@ -3,7 +3,7 @@
 DataSet - Indian Sign Language (IST) - https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl
 Note: Split the DataSet into Train (80%) and Test (20%)
 
-Pre_Notebook is a summary of a Python program that trains a deep learning model using the ResNet50 architecture on the Indian hand sign dataset. Here is a breakdown of the steps involved:
+#Pre_Notebook is a summary of a Python program that trains a deep learning model using the ResNet50 architecture on the Indian hand sign dataset. Here is a breakdown of the steps involved:
 
 Step 1 - Load the Required packages: This step imports the necessary packages, including TensorFlow and Keras, for building and training the model.
 
@@ -31,7 +31,7 @@ Step 10 - Save the Model: Finally, saves the trained model as a file named "mode
 
 summary provides an overview of the code's functionality, which involves loading the dataset, building a pre-trained model, training the model, evaluating its performance, and saving it for future use.
 
-Post_Notebook - image classification using a pre-trained model. Here is a summary of the code:
+#Post_Notebook - image classification using a pre-trained model. Here is a summary of the code:
 
 - Import necessary packages: The code imports the required packages, including cv2 for image processing, numpy for numerical operations, tensorflow.keras.models for loading the model, and matplotlib.pyplot for displaying images.
 
